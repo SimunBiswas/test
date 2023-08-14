@@ -1,0 +1,5 @@
+{{#user}
+Name: SImun Biswas
+Skills: HTML, CSS, JS, React.js, Next.js
+Email: simunbiswas14395@gmail.com
+{{/user}}
